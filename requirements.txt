@@ -2,3 +2,5 @@ flask
 gunicorn
 requests
 cloudinary
+ultralytics
+opencv-python-headless
