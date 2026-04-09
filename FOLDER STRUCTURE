@@ -1,0 +1,9 @@
+esp32-cctv-server/
+│
+├── app.py
+├── requirements.txt
+├── render.yaml
+├── frames/
+├── static/
+└── templates/
+    └── index.html
